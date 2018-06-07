@@ -81,8 +81,6 @@ cc_defaults {
         },
     },
 
-    use_clang_lld: false,
-
     target: {
         linux_bionic: {
             enabled: true,
